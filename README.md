@@ -11,4 +11,6 @@ This Sales Analysis Dashboard will help the business to figure out the weekness 
 - Texas and the South region had the highest sales.
 - Customers were purchasing more products when discounts were offered, with the exception of March 2021. In this month, customers were purchasing less but discounts were offered more. 
 - In general, Mobiles and Tablets products were sold the most. Appliances products were the second-highest selling item in 2021 as opposed to 2020, entertainment products were the second-highest selling item.
-- Sales are higher among people between 30 and 40.
+- Sales are higher among people between 30 and 40 years old.
+
+
